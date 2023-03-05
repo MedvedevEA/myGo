@@ -1,4 +1,4 @@
-package myWork
+package myGo
 
 import "fmt"
 
