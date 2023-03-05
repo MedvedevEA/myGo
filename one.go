@@ -2,6 +2,6 @@ package myWork
 
 import "fmt"
 
-func HelloWord() {
+func HelloWorld() {
 fmt.Println("Hello world from github!!!")
 }
