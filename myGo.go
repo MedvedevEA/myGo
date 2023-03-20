@@ -4,7 +4,7 @@ import "fmt"
 
 func HelloWorld () {
 
-	fmt.Println("Hello world from Git !!!")
+	fmt.Println("Hello world from Git version 2 !!!")
 }
 
 func HelloWorld2 () {
