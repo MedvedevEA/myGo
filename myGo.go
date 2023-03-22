@@ -4,6 +4,6 @@ import "fmt"
 
 func HelloWorld () {
 
-	fmt.Println("Hello world FROM GITHUB (add change number 2)")
+	fmt.Println("HELLO WORLD FROM GITHUB ")
 }
 
